@@ -1,6 +1,5 @@
-Studying CS @TMU
+Studying CS @TMU<br>
 I like making fun websites
-
 ## My Projects:
 - [React Portfolio](https://mattp532.github.io/react-portfolio/)
 - [Lingify](https://mattp532.github.io/Lingify/)
