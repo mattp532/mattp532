@@ -1,4 +1,4 @@
-# CS @TMU
+Studying CS @TMU
 I like making fun websites
 
 ## My Projects:
