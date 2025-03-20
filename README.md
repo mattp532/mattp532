@@ -1,9 +1,9 @@
 Studying CS @TMU 😛 <br> 
 I like making fun websites
 ## My Projects:
-- [React Portfolio](https://mattp532.github.io/react-portfolio/)
-- [Composerdle](https://mattp532.github.io/Composerdle/)
-- [Lingify](https://mattp532.github.io/Lingify/)
+- [React Portfolio🖥️](https://mattp532.github.io/react-portfolio/)
+- [Composerdle🎵](https://mattp532.github.io/Composerdle/)
+- [Lingify💬](https://mattp532.github.io/Lingify/)
 <!--
 **mattp532/mattp532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
