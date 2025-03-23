@@ -1,7 +1,7 @@
 Studying CS @TMU 😛 <br> 
 I like making fun websites
 ## My Projects:
-- [🖥️ React Portfolio](https://mattp532.github.io/react-portfolio/)
+- [🖥️ Personal Portfolio](https://mattp532.github.io/portfolio-2/)
 - [🎵 Composerdle](https://github.com/mattp532/Composerdle)
 - [💬 Lingify](https://mattp532.github.io/Lingify/)
 <!--
