@@ -1,5 +1,5 @@
 Studying CS @TMU 😛 <br> 
-- Learning software stuff <br>
+- Learning web-dev stuff <br>
 - I like making fun websites
 ---
 - [🖥️ **Personal Portfolio**](https://mattp532.github.io/portfolio-2/)
