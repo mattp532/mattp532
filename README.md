@@ -1,6 +1,7 @@
 Studying CS @TMU 😛 <br> 
 I like making fun websites
 ## My Projects:
+- [🎸 Virtual Guitar Amp (WIP)](https://mattp532.github.io/virtual-guitar-amp)
 - [🖥️ Personal Portfolio](https://mattp532.github.io/portfolio-2/)
 - [🎵 Composerdle](https://github.com/mattp532/Composerdle)
 - [💬 Lingify](https://mattp532.github.io/Lingify/)
