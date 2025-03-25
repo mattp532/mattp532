@@ -7,7 +7,7 @@ I like making fun websites
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattp532&show_icons=true&theme=highcontrast)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattp532&show_icons=true&theme=radical)
 
 <!--
 **mattp532/mattp532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
