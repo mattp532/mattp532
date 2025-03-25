@@ -3,7 +3,7 @@ Studying CS @TMU 😛 <br>
 - I like making fun websites
 ---
 - [🖥️ **Personal Portfolio**](https://mattp532.github.io/portfolio-2/)
-- [🎸 **Virtual Guitar Amp** (WIP)](https://mattp532.github.io/virtual-guitar-amp)
+- [🎸 **Virtual Guitar Amp** (WIP)](https://mattp532.github.io/Guitar-Amp-Simulator)
 - [🎵 **Composerdle**](https://github.com/mattp532/Composerdle)
 - [💬 **Lingify**](https://mattp532.github.io/Lingify/)
 
