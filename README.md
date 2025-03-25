@@ -1,4 +1,5 @@
 Studying CS @TMU 😛 <br> 
+Learning software stuff
 I like making fun websites
 - [🖥️ **Personal Portfolio**](https://mattp532.github.io/portfolio-2/)
 - [🎸 **Virtual Guitar Amp** (WIP)](https://mattp532.github.io/virtual-guitar-amp)
