@@ -7,8 +7,6 @@ I like making fun websites
 
 ---
 
-## 📊 GitHub Stats:
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattp532&show_icons=true&theme=transparent)
 
 <!--
