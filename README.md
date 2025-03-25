@@ -5,8 +5,8 @@ I like making fun websites
 - [🎸 Virtual Guitar Amp (WIP)](https://mattp532.github.io/virtual-guitar-amp)
 - [🎵 Composerdle](https://github.com/mattp532/Composerdle)
 - [💬 Lingify](https://mattp532.github.io/Lingify/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattp532&show_icons=true&theme=transparent)
 
-(https://github-readme-stats.vercel.app/api?username=mattp532&show_icons=true&theme=transparent)
 <!--
 **mattp532/mattp532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
