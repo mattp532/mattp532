@@ -2,7 +2,7 @@ Studying CS @TMU 😛 <br>
 - Learning web-dev stuff <br>
 ---
 - [🖥️ **Personal Portfolio**](https://mattp532.github.io/portfolio-2/)
-- [🎸 **Guitar Amp Simulator** (WIP)](https://github.com/mattp532/Guitar-Amp-Simulator)
+- [🎸 **Guitar Amp Simulator**](https://github.com/mattp532/Guitar-Amp-Simulator)
 - [🎵 **Composerdle**](https://github.com/mattp532/Composerdle)
 - [💬 **Lingify**](https://mattp532.github.io/Lingify/)
 
