@@ -1,5 +1,4 @@
 Studying CS @TMU 😛 <br> 
-- Learning web-dev stuff <br>
 ---
 - [🖥️ **Personal Portfolio**](https://mattp532.github.io/portfolio-2/)
 - [🎸 **Guitar Amp Simulator**](https://github.com/mattp532/Guitar-Amp-Simulator)
@@ -7,8 +6,6 @@ Studying CS @TMU 😛 <br>
 - [💬 **Lingify**](https://mattp532.github.io/Lingify/)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mattp532&show_icons=true&theme=gruvbox)
 
 <!--
 **mattp532/mattp532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
