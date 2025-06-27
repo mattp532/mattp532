@@ -1,9 +1,7 @@
 Studying CS @TMU 😛 <br> 
 ---
-- [🖥️ **Personal Portfolio**](https://mattp532.github.io/portfolio-2/)
-- [🎸 **Guitar Amp Simulator**](https://github.com/mattp532/Guitar-Amp-Simulator)
-- [🎵 **Composerdle**](https://github.com/mattp532/Composerdle)
-- [💬 **Lingify**](https://mattp532.github.io/Lingify/)
+(https://github-readme-stats.vercel.app/api?username=mattp532)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
