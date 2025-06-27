@@ -1,6 +1,6 @@
 Studying CS @TMU 😛 <br> 
 ---
-![Matthew's GH stats](https://github-readme-stats.vercel.app/api?username=mattp532)](https://github.com/anuraghazra/github-readme-stats)
+![Matthew's GH stats](https://github-readme-stats.vercel.app/api?username=mattp532)]
 
 
 ---
